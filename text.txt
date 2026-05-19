@@ -1,0 +1,31 @@
+-----------------------------------------------------------------------------------------------------
+
+Data Managment text:
+A data project always start with a data enginering step. You need to harvest data and store it in an adequate format to be able to use it
+I can help you to..
+Harvest data from different sources like APIs, databases or messy Excel spreadsheets.
+                      Reformat and reshape data to make further analyses easier.
+                      Clean datasets removing outliers and abberant data
+                      Create reproducible data preparation workflows
+                      Automatize the creation of data related reports
+Example:
+            I collected tweets containing the #surffor 9 months to study how surfers use
+            social media. I used the twitter API and made the data collection automatic
+            thanks to a personnal webserver and a custom R script.
+            I created a dashboard for a company called Terres Inovia. It is directly
+            plugged on their SQL database and allows to access its information in real time.
+
+-----------------------------------------------------------------------------------------------------
+
+Data Mining text: 
+Crunch the data to get answer to your question. Give insight to the information.
+I can help you to..
+Exploratory analysis of a dataset.
+                      Creation of clean and reproducible reports using R Markdown.
+                      Application of statistical methods on your dataset.
+                      Creation of custom scripts for analysing your data automatically
+Example: 
+               I'm the author of several scientific publications where I was in charge to explore 
+               and understand complex dataset in order to answer scientific questions.
+               I recovered information about crypto currency prices on different exchanges and explored the
+               data looking for arbitrage opportunities
